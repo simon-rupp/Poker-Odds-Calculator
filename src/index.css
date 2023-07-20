@@ -121,8 +121,8 @@ h1 {
 }
 
 .displayHand {
-  margin-right: 5vw;
-  margin-left: 5vw;
+  margin-right: 1vw;
+  margin-left: 1vw;
 }
 
 .displayHand h3 {
@@ -159,6 +159,102 @@ h1 {
 .resetContainer {
   width: 100%;
   text-align: center;
+}
+
+@media screen and (max-width: 960px) {
+  .mainBody {
+    flex-direction: column;
+  }
+
+  .leftColumn {
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+  .rightColumn {
+    padding-right: 0px;
+  }
+
+  .cardbutton {
+    width: 70px;
+  }
+
+  .cardbutton.selected {
+    width: 70px;
+  }
+
+  .Selectedcard {
+    width: 70px;
+  }
+
+  .Placecard {
+    width: 70px;
+  }
+
+  .displayBoard {
+    margin-right: 0px;
+  }
+
+  .displayHand {
+    margin-right: 0px;
+    margin-left: 20px;
+  }
+
+  .resetButton {
+    width: 40px;
+  }
+
+  .hide {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .mainBody {
+    flex-direction: column;
+  }
+
+  .leftColumn {
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+  .rightColumn {
+    padding-right: 0px;
+  }
+
+  .cardbutton {
+    width: 40px;
+  }
+
+  .cardbutton.selected {
+    width: 40px;
+  }
+
+  .Selectedcard {
+    width: 40px;
+  }
+
+  .Placecard {
+    width: 40px;
+  }
+
+  .displayBoard {
+    margin-right: 0px;
+  }
+
+  .displayHand {
+    margin-right: 0px;
+    margin-left: 20px;
+  }
+
+  .resetButton {
+    width: 40px;
+  }
+
+  .hide {
+    display: none;
+  }
 }
 
 

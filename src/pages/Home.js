@@ -190,7 +190,7 @@ const Home = () => {
                 ))}
                 {renderPlaceholders(2 - selected.slice(0, 2).length)}
               </div>
-            <p>Win Percentage: {hand1Percentage}</p>
+            <p>Win <span className='hide'> Percentage</span>: {hand1Percentage}</p>
           </div>
           <div className='displayHand'>
             <h3>Hand 2:</h3>
@@ -202,7 +202,7 @@ const Home = () => {
               ))}
               {renderPlaceholders(2 - selected.slice(2, 4).length)}
             </div>
-            <p>Win Percentage: {hand2Percentage}</p>
+            <p>Win <span className='hide'> Percentage</span>: {hand2Percentage}</p>
           </div>
           <div className='displayBoard'>
             <h3>Board:</h3>
