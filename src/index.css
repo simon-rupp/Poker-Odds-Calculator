@@ -224,11 +224,13 @@ h1 {
   }
 
   .cardbutton {
-    width: 40px;
+    width: 7%;
+    margin-top: 2px;
   }
 
   .cardbutton.selected {
-    width: 40px;
+    width: 7%;
+    margin-top: 2px;
   }
 
   .Selectedcard {
