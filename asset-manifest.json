@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Poker-Odds-Calculator/static/css/main.0c3f113d.css",
-    "main.js": "/Poker-Odds-Calculator/static/js/main.3c40dc93.js",
+    "main.css": "/Poker-Odds-Calculator/static/css/main.62b00952.css",
+    "main.js": "/Poker-Odds-Calculator/static/js/main.7d364528.js",
     "static/media/hearts_king.png": "/Poker-Odds-Calculator/static/media/hearts_king.b5e772fb6873739a9650.png",
     "static/media/diamonds_king.png": "/Poker-Odds-Calculator/static/media/diamonds_king.1a1f6d0dd0f7b550ce3d.png",
     "static/media/hearts_queen.png": "/Poker-Odds-Calculator/static/media/hearts_queen.b66bc16af40ede05ee72.png",
@@ -34,11 +34,11 @@
     "static/media/hearts_6.png": "/Poker-Odds-Calculator/static/media/hearts_6.a564344d10f67e6e31b0.png",
     "static/media/spades_5.png": "/Poker-Odds-Calculator/static/media/spades_5.c3bc0e287e28aa8b3416.png",
     "index.html": "/Poker-Odds-Calculator/index.html",
-    "main.0c3f113d.css.map": "/Poker-Odds-Calculator/static/css/main.0c3f113d.css.map",
-    "main.3c40dc93.js.map": "/Poker-Odds-Calculator/static/js/main.3c40dc93.js.map"
+    "main.62b00952.css.map": "/Poker-Odds-Calculator/static/css/main.62b00952.css.map",
+    "main.7d364528.js.map": "/Poker-Odds-Calculator/static/js/main.7d364528.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c3f113d.css",
-    "static/js/main.3c40dc93.js"
+    "static/css/main.62b00952.css",
+    "static/js/main.7d364528.js"
   ]
 }
