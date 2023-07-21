@@ -149,6 +149,15 @@ h1 {
   display: inline-block;
   padding: 0px;
   position: relative;
+  font-family: inherit;
+  color: rgb(103, 0, 0);
+  background-color: #fff;
+  font-weight: bold;
+
+}
+
+.resetButton:hover {
+  filter: brightness(80%);
 }
 
 .resetDiv {
@@ -206,6 +215,10 @@ h1 {
 
   .hide {
     display: none;
+  }
+
+  .directions {
+    margin-right: 20px;
   }
 }
 
